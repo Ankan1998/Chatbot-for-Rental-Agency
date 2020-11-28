@@ -1,2 +1,2 @@
 # Chatbot-with-Pytorch
-A basic Chatbot using Pytorch
+A basic chatbot for car and bike rental agency.
